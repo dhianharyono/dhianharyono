@@ -1,11 +1,11 @@
 ### Hi! I'm Dhian. 👋
 
-- Currently Front-End Developer at Telkom Indonesia
+- :office: I'm currently Front-End Developer at Telkom Indonesia
 
-- I'm currently learning deep about React.js, Javascript, and many more...
+- :banana: Learning deep about React.js, Javascript, and many more...
 
-- When not coding I'm probably designing and traveling
+- :surfer: When not coding I'm probably designing and traveling
 
-- Feel free to stalk me on [Twitter](https://twitter.com/dhianharyonoo) or [LinkedIn](www.linkedin.com/in/dhian-haryono)
+- :bath: Feel free to stalk me on [Twitter](https://twitter.com/dhianharyonoo) or [LinkedIn](www.linkedin.com/in/dhian-haryono)
 
 Baa Byee
