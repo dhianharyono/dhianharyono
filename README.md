@@ -2,7 +2,7 @@
 
 - :office: I'm currently Front-End Developer at Telkom Indonesia
 
-- :octocat: My Popular Nickname : Dhibeks
+- :octocat: My Nickname : Dhibeks
 
 - :banana: Learning deep about React.js, Javascript, and many more...
 
