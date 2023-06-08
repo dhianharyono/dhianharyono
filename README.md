@@ -1,6 +1,6 @@
 ### Hi! I'm Dhian. 👋
 
-- :office: I'm currently Front-End Developer at Telkom Indonesia
+- :office: I'm currently FrontEnd Developer
 
 - :octocat: My Nickname : Dhibeks
 
