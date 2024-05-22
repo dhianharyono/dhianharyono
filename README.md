@@ -2,7 +2,7 @@
 
 - :office: I'm currently FrontEnd Developer
 
-- :octocat: My Nickname : Dhibeks
+- :octocat: My Nickname : Beks
 
 - :banana: Learning deep about React.js, Javascript, and many more...
 
